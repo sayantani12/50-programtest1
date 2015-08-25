@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="105" started-at="2015-08-25T00:07:04Z" finished-at="2015-08-25T00:07:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="105" started-at="2015-08-25T00:07:04Z" finished-at="2015-08-25T00:07:04Z">
+      <class name="com.java.test.PalindromeTest">
+        <test-method status="PASS" signature="testblank()[pri:0, instance:com.java.test.PalindromeTest@2ac1fdc4]" name="testblank" duration-ms="34" started-at="2015-08-24T17:07:04Z" finished-at="2015-08-24T17:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testblank -->
+        <test-method status="PASS" signature="testblank2()[pri:0, instance:com.java.test.PalindromeTest@2ac1fdc4]" name="testblank2" duration-ms="2" started-at="2015-08-24T17:07:04Z" finished-at="2015-08-24T17:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testblank2 -->
+        <test-method status="PASS" signature="testblankbtw()[pri:0, instance:com.java.test.PalindromeTest@2ac1fdc4]" name="testblankbtw" duration-ms="2" started-at="2015-08-24T17:07:04Z" finished-at="2015-08-24T17:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testblankbtw -->
+        <test-method status="PASS" signature="testnegative()[pri:0, instance:com.java.test.PalindromeTest@2ac1fdc4]" name="testnegative" duration-ms="7" started-at="2015-08-24T17:07:04Z" finished-at="2015-08-24T17:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testnegative -->
+        <test-method status="PASS" signature="testpositive()[pri:0, instance:com.java.test.PalindromeTest@2ac1fdc4]" name="testpositive" duration-ms="3" started-at="2015-08-24T17:07:04Z" finished-at="2015-08-24T17:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpositive -->
+        <test-method status="PASS" signature="testsingle()[pri:0, instance:com.java.test.PalindromeTest@2ac1fdc4]" name="testsingle" duration-ms="2" started-at="2015-08-24T17:07:04Z" finished-at="2015-08-24T17:07:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsingle -->
+      </class> <!-- com.java.test.PalindromeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
